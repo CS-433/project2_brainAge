@@ -37,7 +37,7 @@ The script [Clustering.ipynb](Clustering.ipynb) outputs statistics on the cluste
 
 ## Data visualization:
 
-The script [Data_Visualization.ipynb](Data_Visualization.ipynb) outputs statistics on the datasets, with and without feature decomposition (raw, PCA, PLS).
+The script [Data Visualization.ipynb](Data Visualization.ipynb) outputs statistics on the datasets, with and without feature decomposition (raw, PCA, PLS).
 
 ## Model training: 
 
