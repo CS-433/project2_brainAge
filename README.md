@@ -43,11 +43,7 @@ The script [Data Visualization.ipynb](Data Visualization.ipynb) outputs statisti
 
 All models (elastic net regression, KNN, random forest, Adaboost, SVR) were trained on both the global dataset (global model) and each cluster (local models), for each type of feature engineering method (original features or raw, lasso regularization, PLS regression, PCA decomposition) with or without correlation filtering (MI score filtering).
 
-To run the entire script:
-```
-python Models.ipynb
-```
-N.B. it may take some time to run. 
+Please run the script [Models.ipynb](Models.ipynb) to train all model combinations.
 
 ## Model optimization: 
 
