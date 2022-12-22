@@ -2,9 +2,9 @@
 
 ## General Information:
 
-This repository contains the code and documentation for the ML4 Science project we worked on, entitled "Predicting Biological Age for Brain Anatomical Volume Measurements"
+This repository contains the code and documentation for the ML4 Science project we worked on with the Medical Image Processing lab at EPFL, entitled "Predicting Biological Age for Brain Anatomical Volume Measurements".
 
-Team:
+##Team:
 
 The project was accomplished by: 
 - Antonin Faure: @antoninfaure
@@ -56,5 +56,5 @@ The script [Optimization.ipynb](Optimization.ipynb) produces the optimized resul
 
 ## Report:
 
-A 4 page scientific report with the appendix describes the entire project
+A 4 page scientific report with the appendix describes the entire project and how we contributed to 
 
