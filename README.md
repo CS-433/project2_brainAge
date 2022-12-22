@@ -27,7 +27,7 @@ We were provided with two data sets:
 To run our code, please download these files and put them in the same folder as our code files. 
 
 ## Helpers file
-The [helpers.py](helpers.py) contains all the functions used in our [run.py](run.py) in order to use the implemented algorithms.
+The [helpers.py](helpers.py) contains all the useful functions used in our scripts [Data Visualization.ipynb], [Clustering.ipynb], [Optimization.ipynb], and [Models.ipynb].
 
 ## Clustering:
 
