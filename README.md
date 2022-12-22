@@ -27,7 +27,7 @@ We were provided with two data sets:
 To run our code, please download these files and put them in the same folder as our code files. 
 
 ## Helpers file
-The [helpers.py](helpers.py) contains all the useful functions used in our scripts [Data Visualization.ipynb](Data_Visualization.ipynb), [Clustering.ipynb](Clustering.ipynb), [Optimization.ipynb](Optimization.ipynb), and [Models.ipynb](Models.ipynb).
+The [helpers.py](helpers.py) contains all the useful functions used in our scripts [Data Visualization.ipynb](Data Visualization.ipynb), [Clustering.ipynb](Clustering.ipynb), [Optimization.ipynb](Optimization.ipynb), and [Models.ipynb](Models.ipynb).
 
 ## Clustering:
 
