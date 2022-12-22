@@ -27,7 +27,7 @@ We were provided with two data sets:
 To run our code, please download these files and put them in the same folder as our code files. 
 
 ## Helpers file
-The [helpers.py](helpers.py) contains all the useful functions used in our scripts [Data Visualization.ipynb](Data Visualization.ipynb), [Clustering.ipynb](Clustering.ipynb), [Optimization.ipynb](Optimization.ipynb), and [Models.ipynb](Models.ipynb).
+The [helpers.py](helpers.py) contains all the useful functions used in our scripts [Data Visualization.ipynb](Data_Visualization.ipynb), [Clustering.ipynb](Clustering.ipynb), [Optimization.ipynb](Optimization.ipynb), and [Models.ipynb](Models.ipynb).
 
 ## Clustering:
 
@@ -37,7 +37,7 @@ The script [Clustering.ipynb](Clustering.ipynb) outputs statistics on the cluste
 
 ## Data visualization:
 
-The script [Data Visualization.ipynb](Data Visualization.ipynb) outputs statistics on the datasets, with and without feature decomposition (raw, PCA, PLS).
+The script [Data Visualization.ipynb](Data_Visualization.ipynb) outputs statistics on the datasets, with and without feature decomposition (raw, PCA, PLS).
 
 ## Model training: 
 
